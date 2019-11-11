@@ -1,0 +1,650 @@
+% Aldershot : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Aldridge - BrownHills: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Altrincham and Sale West: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% AmberValley: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Arundel and South Downs: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Ashfield: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Ashford: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Ashton - under - Lyne: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Aylesbury: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Banbury: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Barking : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Barnsley Central: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Barnsley East: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Barrow and Furness: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Basildon and Billericay: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Basingstoke: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Bassetlaw: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Bath: England: No: Dissolved: N / A : YourLocalRep: ECB84B:
+% Batley and Spen: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Battersea: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Beaconsfield : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Beckenham : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Bedford(central) : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Bermondsey and Old Southwark: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Berwick - upon - Tweed: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Bethnal Green and Bow: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Beverley and Holderness: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Bexhill and Battle: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Bexleyheath and Crayford: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Birkenhead: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Birmingham, Edgbaston: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Birmingham, Erdington: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Birmingham, Hall Green: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Birmingham, Hodge Hill : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Birmingham, Ladywood: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Birmingham, Northfield: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Birmingham, Perry Barr: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Birmingham, Selly Oak: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Birmingham, Yardley: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Bishop Auckland: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Blackburn : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Blackley and Broughton : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Blackpool North and Cleveleys: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Blackpool South: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Blaydon: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Blyth Valley: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Bognor Regis and Littlehampton: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Bolsover: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Bolton North East: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Bolton South East: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Bolton West: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Bootle : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Boston and Skegness: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Bosworth: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Bournemouth East: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Bournemouth West: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Bracknell: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Bradford East: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Bradford South: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Bradford West: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Braintree : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Brent Central: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Brent North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Brentford and Isleworth : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Brentwood and Ongar : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Bridgwater and West Somerset: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Brigg and Goole : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Brighton, Kemptown: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Brighton, Pavilion: England: No: Dissolved: N / A : YourLocalRep: 57FF36:
+% Bristol East: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Bristol North West : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Bristol South: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Bristol West: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Broadland : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Bromley and Chislehurst : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Bromsgrove : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Broxbourne : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Broxtowe : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Buckingham : England: No: Dissolved: N / A : YourLocalRep: D9D1D1:
+% Burnley : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Burton : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Bury North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Bury South: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Bury St Edmunds : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Calder Valley: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Camberwell and Peckham : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Camborne and Redruth : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Cambridge : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Cannock Chase: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Canterbury : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Carlisle : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Carshalton and Wallington : England: No: Dissolved: N / A : YourLocalRep: ECB84B:
+% Castle Point: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Central Devon: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Central Suffolk and North Ipswich : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Charnwood : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Chatham and Aylesford : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Cheadle : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Chelmsford : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Chelsea and Fulham : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Cheltenham : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Chesham and Amersham : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Chesterfield : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Chichester : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Chingford and Woodford Green: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Chippenham : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Chipping Barnet: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Chorley : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Christchurch: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Cities of London and Westminster : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% City of Chester : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% City of Durham : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Clacton : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Cleethorpes : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Colchester : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Colne Valley: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Congleton : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Copeland : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Corby : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Coventry North East : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Coventry North West : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Coventry South: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Crawley : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Crewe and Nantwich : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Croydon Central: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Croydon North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Croydon South: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Dagenham and Rainham : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Darlington : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Dartford : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Daventry : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Denton and Reddish : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Derby North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Derby South: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Derbyshire Dales: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Devizes : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Dewsbury : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Don Valley: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Doncaster Central: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Doncaster North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Dover : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Dudley North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Dudley South: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Dulwich and West Norwood: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Ealing Central and Acton: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Ealing North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Ealing, Southall: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Easington : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% East Devon: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% East Ham: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% East Hampshire(central) : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% East Surrey: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% East Worthing and Shoreham: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% East Yorkshire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Eastbourne : England: No: Dissolved: N / A : YourLocalRep: ECB84B:
+% Eastleigh : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Eddisbury : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Edmonton : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Ellesmere Port and Neston: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Elmet and Rothwell: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Eltham : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Enfield North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Enfield, Southgate: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Epping Forest: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Epsom and Ewell : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Erewash : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Erith and Thamesmead : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Esher and Walton : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Exeter : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Fareham : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Faversham and Mid Kent: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Feltham and Heston : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Filton and Bradley Stoke: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Finchley and Golders Green: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Folkestone and Hythe : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Forest of Dean : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Fylde : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Gainsborough : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Garston and Halewood : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Gateshead : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Gedling: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Gillingham and Rainham : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Gloucester : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Gosport : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Grantham and Stamford : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Gravesham : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Great Grimsby: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Great Yarmouth: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Greenwich and Woolwich : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Guildford : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Hackney North and Stoke Newington : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Hackney South and Shoreditch: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Halesowen and Rowley Regis: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Halifax : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Haltemprice and Howden : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Halton : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Hammersmith : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Hampstead and Kilburn : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Harborough : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Harlow : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Harrogate and Knaresborough : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Harrow East: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Harrow West: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Hartlepool : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Harwich and North Essex: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Hastings and Rye : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Havant : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Hayes and Harlington : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Hazel Grove: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Hemel Hempstead: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Hemsworth : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Hendon : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Henley : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Hereford and South Herefordshire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Hertford and Stortford : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Hertsmere : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Hexham : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Heywood and Middleton : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% High Peak: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Hitchin and Harpenden : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Holborn and St Pancras: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Hornchurch and Upminster : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Hornsey and Wood Green: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Horsham : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Houghton and Sunderland South: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Hove : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Huddersfield : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Huntingdon : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Hyndburn : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Ilford North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Ilford South: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Ipswich(central) : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Isle of Wight : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Islington North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Islington South and Finsbury: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Jarrow : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Keighley : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Kenilworth and Southam  : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Kensington : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Kettering : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Kingston and Surbiton : England: No: Dissolved: N / A : YourLocalRep: ECB84B:
+% Kingston upon Hull East: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Kingston upon Hull North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Kingston upon Hull West and Hessle: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Kingswood : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Knowsley : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Lancaster and Fleetwood : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Leeds Central: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Leeds East: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Leeds North East : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Leeds North West : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Leeds West: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Leicester East: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Leicester South: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Leicester West: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Leigh : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Lewes : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Lewisham, Deptford: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Lewisham East: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Lewisham West and Penge: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Leyton and Wanstead : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Lichfield : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Lincoln : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Liverpool, Riverside: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Liverpool, Walton: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Liverpool, Wavertree: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Liverpool, West Derby : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Loughborough : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Louth and Horncastle : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Ludlow : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Luton North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Luton South: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Macclesfield : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Maidenhead : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Maidstone and The Weald: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Makerfield : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Maldon : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Manchester Central: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Manchester, Gorton: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Manchester, Withington: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Mansfield : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Meon Valley: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Meriden : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Mid Bedfordshire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Mid Derbyshire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Mid Dorset and North Poole : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Mid Norfolk: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Mid Sussex: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Mid Worcestershire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Middlesbrough(central) : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Middlesbrough South and East Cleveland : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Milton Keynes North : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Milton Keynes South : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Mitcham and Morden : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Mole Valley: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Morecambe and Lunesdale : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Morley and Outwood : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% New Forest East : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% New Forest West : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Newark : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Newbury : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Newcastle - under - Lyme : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Newcastle upon Tyne Central: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Newcastle upon Tyne East: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Newcastle upon Tyne North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Newton Abbot: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Normanton, Pontefract and Castleford: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% North Cornwall: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% North Devon: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% North Dorset: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% North Durham: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% North East Bedfordshire : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% North East Cambridgeshire : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% North East Derbyshire : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% North East Hampshire : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% North East Hertfordshire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% North East Somerset : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% North Herefordshire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% North Norfolk: England: No: Dissolved: N / A : YourLocalRep: ECB84B:
+% North Shropshire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% North Somerset: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% North Swindon: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% North Thanet: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% North Tyneside: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% North Warwickshire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% North West Cambridgeshire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% North West Durham : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% North West Hampshire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% North West Leicestershire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% North West Norfolk : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% North Wiltshire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Northampton North: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Northampton South: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Norwich North: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Norwich South: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Nottingham East: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Nottingham North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Nottingham South: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Nuneaton : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Old Bexley and Sidcup: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Oldham East and Saddleworth: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Oldham West and Royton: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Orpington : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Oxford East: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Oxford West and Abingdon: England: No: Dissolved: N / A : YourLocalRep: ECB84B:
+% Pendle: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Penistone and Stocksbridge : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Penrith and The Border: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Peterborough : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Plymouth, Moor View: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Plymouth, Sutton and Devonport: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Poole : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Poplar and Limehouse : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Portsmouth North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Portsmouth South: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Preston: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Pudsey : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Putney : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Rayleigh and Wickford : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Reading East: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Reading West: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Redcar : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Redditch : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Reigate: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Ribble Valley: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Richmond(Yorks) : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Richmond Park: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Rochdale : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Rochester and Strood : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Rochford and Southend East: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Romford : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Romsey and Southampton North: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Rossendale and Darwen : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Rother Valley: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Rotherham : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Rugby : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Ruislip, Northwood and Pinner: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Runnymede and Weybridge : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Rushcliffe : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Rutland and Melton: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Saffron Walden: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Salford and Eccles : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Salisbury : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Scarborough and Whitby : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Scunthorpe : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Sedgefield : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Sefton Central: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Selby and Ainsty : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Sevenoaks : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Sheffield, Brightside and Hillsborough: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Sheffield Central: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Sheffield, Hallam: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Sheffield, Heeley: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Sheffield South East: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Sherwood : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Shipley : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Shrewsbury and Atcham : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Sittingbourne and Sheppey : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Skipton and Ripon : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Sleaford and North Hykeham: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Slough : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Solihull : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Somerton and Frome : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South Basildon and East Thurrock: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South Cambridgeshire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South Derbyshire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South Dorset: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South East Cambridgeshire : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South East Cornwall : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South Holland and The Deepings : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% South Leicestershire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South Norfolk: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South Northamptonshire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South Ribble: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South Shields: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% South Staffordshire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South Suffolk: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South Swindon: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South Thanet: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South West Bedfordshire : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South West Devon : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South West Hertfordshire : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South West Norfolk : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South West Surrey : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% South West Wiltshire : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Southampton, Itchen: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Southampton, Test: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Southend West: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Southport : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Spelthorne : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% St Albans: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% St Austell and Newquay: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% St Helens North : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% St Helens South and Whiston : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% St Ives: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Stafford : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Staffordshire Moorlands: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Stalybridge and Hyde : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Stevenage : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Stockport : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Stockton North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Stockton South: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Stoke - on - Trent Central: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Stoke - on - Trent North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Stoke - on - Trent South: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Stone : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Stourbridge : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Stratford - on - Avon : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Streatham : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Stretford and Urmston: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Stroud: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Suffolk Coastal: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Sunderland Central: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Surrey Heath: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Sutton and Cheam : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Sutton Coldfield: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Tamworth : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Tatton : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Taunton Deane: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Telford : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Tewkesbury: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% The Cotswolds: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% The Wrekin: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Thirsk and Malton : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Thornbury and Yate : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Thurrock : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Tiverton and Honiton : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Tonbridge and Malling: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Tooting : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Torbay : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Torridge and West Devon: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Totnes : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Tottenham   : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Truro and Falmouth : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Tunbridge Wells: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Twickenham : England: No: Dissolved: N / A : YourLocalRep: ECB84B:
+% Tynemouth : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Uxbridge and South Ruislip: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Vauxhall : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Wakefield : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Wallasey : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Walsall North: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Walsall South: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Walthamstow     : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Wansbeck : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Wantage     : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Warley  : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Warrington North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Warrington South: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Warwick and Leamington : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Washington and Sunderland West: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Watford : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Waveney     : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Wealden : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Weaver Vale: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Wellingborough : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Wells(central) : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Welwyn Hatfield: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Wentworth and Dearne : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% West Bromwich East  : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% West Bromwich West  : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% West Dorset: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% West Ham: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% West Lancashire: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% West Suffolk: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% West Worcestershire: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Westminster North: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Westmorland and Lonsdale : England: No: Dissolved: N / A : YourLocalRep: ECB84B:
+% Weston - Super - Mare   : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Wigan   : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Wimbledon : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Winchester : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Windsor : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Wirral South: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Wirral West: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Witham : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Witney : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Woking : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Wokingham : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Wolverhampton North East : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Wolverhampton South East : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Wolverhampton South West : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Worcester : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Workington : England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Worsley and Eccles South: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Worthing West: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Wycombe : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Wyre and Preston North: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Wyre Forest: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Wythenshawe and Sale East: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Yeovil : England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% York Central: England: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% York Outer: England: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Aberdeen North: Scotland: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Aberdeen South: Scotland: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Airdrie and Shotts : Scotland: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Angus : Scotland: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Argyll and Bute : Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Ayr, Carrick and Cumnock: Scotland: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Banff and Buchan : Scotland: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Berwickshire, Roxburgh and Selkirk: Scotland: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Caithness, Sutherland and Easter Ross : Scotland: No: Dissolved: N / A : YourLocalRep: ECB84B:
+% Central Ayrshire: Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Coatbridge, Chryston and Bellshill: Scotland: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Cumbernauld, Kilsyth and Kirkintilloch East : Scotland: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Dumfries and Galloway : Scotland: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Dumfriesshire, Clydesdale and Tweeddale: Scotland: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Dundee East: Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Dundee West: Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Dunfermline and West Fife: Scotland: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% East Dunbartonshire: Scotland: No: Dissolved: N / A : YourLocalRep: ECB84B:
+% East Kilbride, Strathaven and Lesmahagow: Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% East Lothian: Scotland: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% East Renfrewshire: Scotland: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Edinburgh East: Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Edinburgh North and Leith: Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Edinburgh South(central)   : Scotland: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Edinburgh South West    : Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Edinburgh West: Scotland: No: Dissolved: N / A : YourLocalRep: ECB84B:
+% Falkirk : Scotland: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Glasgow Central: Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Glasgow East: Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Glasgow North: Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Glasgow North East : Scotland: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Glasgow North West : Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Glasgow South: Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Glasgow South West : Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Glenrothes : Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Gordon  : Scotland: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Inverclyde : Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Inverness, Nairn, Badenoch and Strathspey: Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Kilmarnock and Loudoun : Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Kirkcaldy and Cowdenbeath : Scotland: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Lanark and Hamilton East: Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Linlithgow and East Falkirk: Scotland: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Livingston : Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Midlothian : Scotland: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Moray : Scotland: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Motherwell and Wishaw : Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Na h - Eileanan an Iar    : Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% North Ayrshire and Arran: Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% North East Fife     : Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Ochil and South Perthshire: Scotland: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Orkney and Shetland : Scotland: No: Dissolved: N / A : YourLocalRep: ECB84B:
+% Paisley and Renfrewshire North: Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Paisley and Renfrewshire South: Scotland: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Perth and North Perthshire: Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Ross, Skye and Lochaber: Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Rutherglen and Hamilton West: Scotland: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Stirling : Scotland: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% West Aberdeenshire and Kincardine: Scotland: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% West Dunbartonshire: Scotland: No: Dissolved: N / A : YourLocalRep: FFF35E:
+% Aberavon : Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Aberconwy : Wales: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Alyn and Deeside : Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Arfon : Wales: No: Dissolved: N / A : YourLocalRep: 69FFBC:
+% Blaenau Gwent: Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Brecon and Radnorshire : Wales: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Bridgend : Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Caerphilly : Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Cardiff Central: Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Cardiff North: Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Cardiff South and Penarth: Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Cardiff West: Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Carmarthen East and Dinefwr: Wales: No: Dissolved: N / A : YourLocalRep: 69FFBC:
+% Carmarthen West and South Pembrokeshire : Wales: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Ceredigion : Wales: No: Dissolved: N / A : YourLocalRep: 69FFBC:
+% Clwyd South: Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Clwyd West: Wales: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Cynon Valley: Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Delyn : Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Dwyfor Meirionnydd: Wales: No: Dissolved: N / A : YourLocalRep: 69FFBC:
+% Gower : Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Islwyn : Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Llanelli    : Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Merthyr Tydfil and Rhymney: Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Monmouth : Wales: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Montgomeryshire : Wales: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Neath  56,097 : Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Newport East: Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Newport West: Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Ogmore 55,572 : Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Pontypridd 58,940 : Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Preseli Pembrokeshire: Wales: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Rhondda     : Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Swansea East: Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Swansea West: Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Torfaen : Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Vale of Clwyd   : Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Vale of Glamorgan   : Wales: No: Dissolved: N / A : YourLocalRep: 6AC7FF:
+% Wrexham     : Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Ynys Môn: Wales: No: Dissolved: N / A : YourLocalRep: 7E7777 :
+% Belfast East: Northern Ireland : No: Dissolved: N / A : YourLocalRep: DB69FF:
+% Belfast North: Northern Ireland : No: Dissolved: N / A : YourLocalRep: DB69FF:
+% Belfast South: Northern Ireland : No: Dissolved: N / A : YourLocalRep: DB69FF:
+% Belfast West: Northern Ireland : No: Dissolved: N / A : YourLocalRep: 91C366:
+% East Antrim: Northern Ireland : No: Dissolved: N / A : YourLocalRep: DB69FF:
+% East Londonderry: Northern Ireland : No: Dissolved: N / A : YourLocalRep: DB69FF:
+% Fermanagh and South Tyrone: Northern Ireland : No: Dissolved: N / A : YourLocalRep: 91C366:
+% Foyle   : Northern Ireland : No: Dissolved: N / A : YourLocalRep: 91C366:
+% Lagan Valley: Northern Ireland : No: Dissolved: N / A : YourLocalRep: DB69FF:
+% Mid Ulster: Northern Ireland : No: Dissolved: N / A : YourLocalRep: 91C366:
+% Newry and Armagh    : Northern Ireland : No: Dissolved: N / A : YourLocalRep: 91C366:
+% North Antrim: Northern Ireland : No: Dissolved: N / A : YourLocalRep: DB69FF:
+% North Down: Northern Ireland : No: Dissolved: N / A : YourLocalRep: D9D1D1:
+% South Antrim: Northern Ireland : No: Dissolved: N / A : YourLocalRep: DB69FF:
+% South Down: Northern Ireland : No: Dissolved: N / A : YourLocalRep: 91C366:
+% Strangford  : Northern Ireland : No: Dissolved: N / A : YourLocalRep: DB69FF:
+% Upper Bann: Northern Ireland : No: Dissolved: N / A : YourLocalRep: DB69FF:
+% West Tyrone: Northern Ireland : No: Dissolved: N / A : YourLocalRep: 91C366:
